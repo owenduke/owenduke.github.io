@@ -11,9 +11,7 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Personal Projects"
-    url: /projects/
+  - title: "Personal"
+    url: /personal/
         
-  - title: "Posts"
-    url: /posts/
 
