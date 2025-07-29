@@ -1,0 +1,15 @@
+---
+layout: archive
+title: "Personal Projects"
+permalink: /projects/
+author_profile: true
+---
+
+{% include base_path %}
+
+<p>Personal projects I've worked on in no particlar order, for reference and inspiration.</p>
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
+
