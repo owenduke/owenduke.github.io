@@ -219,7 +219,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  projects:
+  personal:
     output: true
     permalink: /:collection/:path/
 
@@ -255,11 +255,11 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: personal
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
