@@ -1,6 +1,6 @@
 ---
 title: "Trail Notes from the PCT"
-excerpt: "Notes and photos from my 2025 thru-hike of (half of) the Pacific Crest Trail<br/><img src='/images/pct_images/section_6/image10.jpeg'>"
+excerpt: "Notes and photos from my 2025 thru-hike of (half of) the Pacific Crest Trail<br/><img src='/images/pct_images/cover_photo.jpeg'>"
 collection: personal
 layout: single
 ---
