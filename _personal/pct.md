@@ -1,12 +1,12 @@
 ---
 title: "Trail Notes from the PCT"
-excerpt: "Notes and photos from my 2025 thru-hike of (half of) the Pacific Crest Trail<br/><img src='/images/500x300.png'>"
+excerpt: "Notes and photos from my 2025 thru-hike of (half of) the Pacific Crest Trail<br/><img src='/images/pct_images/section_6/image10.jpeg'>"
 collection: personal
 layout: single
 ---
 
 
-In 2025 I hiked ~1300 miles of the Pacific Crest Trail in California, over the course of three months. These are some of the highlights, compiled from my email updates to friends from the trail. 
+In 2025 I hiked ~1300 miles of the Pacific Crest Trail in California, over the course of three months. These are some of the highlights, compiled from the email updates I wrote along the trail.
 
 Section 1: Campo to Julian
 ------
