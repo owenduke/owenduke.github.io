@@ -1,6 +1,6 @@
 ---
 title: "Trail Notes from the PCT"
-excerpt: "Notes and photos from my 2025 thru-hike of (half of) the Pacific Crest Trail<br/><img src='/images/pct_images/cover_photo.jpeg'>"
+excerpt: "Notes and photos from my 2025 thru-hike of (half of) the Pacific Crest Trail.<br/><img src='/images/pct_images/cover_photo.jpeg'>"
 collection: personal
 layout: single
 ---
@@ -14,7 +14,7 @@ Section 1: Campo to Julian
 Today got to the first major resupply point on the PCT: Julian, California. 77 miles down, 1180 to go! Here are some pictures from the first segment.  
 
 Last view of the US/Mexico border from the trail.
-![](/images/pct_images/section_1/image5.jpeg)
+![](/images/pct_images/section_1/image5.jpeg)]
 
 Lake Morena, seen from Morena Bluff, on Day 2.
 ![](/images/pct_images/section_1/image0.jpeg )
