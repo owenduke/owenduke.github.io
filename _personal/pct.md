@@ -14,7 +14,7 @@ Section 1: Campo to Julian
 Today got to the first major resupply point on the PCT: Julian, California. 77 miles down, 1180 to go! Here are some pictures from the first segment.  
 
 Last view of the US/Mexico border from the trail.
-![](/images/pct_images/section_1/image5.jpeg)]
+{% include image-wrapper.html file="/images/pct_images/section_1/image5.jpeg" %}
 
 Lake Morena, seen from Morena Bluff, on Day 2.
 ![](/images/pct_images/section_1/image0.jpeg )
