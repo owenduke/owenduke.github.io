@@ -357,4 +357,70 @@ This next section will be my last on the PCT for the season! I’ll have walked 
 
 Section 10: Seiad Valley to Mt. Shasta
 ----
+I’m writing this on the flight home from Reno to Austin! After 3 months and 1,300 miles I’m saying goodbye to the PCT (for now!) and heading back to normal life. It’s been an absolute blast—everything I’d hoped and more—and it’s sad to go home after having only hiked half the trail. On the other hand, after three months I am a bit excited to do something other than walk every day…
+
+For this final section I skipped up to the northern border of California and hiked south 150 miles to interstate 5. This section passes near Mt. Shasta and through some lovely mountains—much more low-key than the Sierra, and a great section to end on. 
+
+The bus from Reno dropped me off in Mt. Shasta (the town), which sits at the base of Mt. Shasta (the mountain). The latter is quite a sight, especially from a rite aid parking lot, but that’s California for you!  
+![](/images/pct_images/section_10/image0.jpeg)
+
+Jeff and Becky (front) were in town for a protest and gave me a ride back with them to their home in Seiad Valley for the night, near my starting trailhead. 
+![](/images/pct_images/section_10/image1.jpeg)
+
+The first few miles followed a creek at around 1,500’. The moisture and low elevation made this the lushest section of trail I’ve encountered yet. 
+![](/images/pct_images/section_10/image2.jpeg)
+
+The local snails love the moisture! I also saw a bear on the far side of the creek, but didn’t get a good picture of it.
+![](/images/pct_images/section_10/image3.jpeg)
+
+This section has had lots of fires recently, creating what I like to call a Backcountry Jungle-gym!
+![](/images/pct_images/section_10/image4.jpeg)
+
+The first night I camped near this magnificent tree. It’s got a little bed built into it! Or maybe it’s an altar?
+![](/images/pct_images/section_10/image4.jpeg)
+
+Looking up from the tree-bed into the lichen. 
+![](/images/pct_images/section_10/image5.jpeg)
+
+A herd of deer came by at sunset and hung out in the campsite all night. 
+![](/images/pct_images/section_10/image6.jpeg)
+
+Most of this section followed a series of ridges at about 8,000’, leading to a drier landscape and many wildflowers. 
+![](/images/pct_images/section_10/image8.jpeg)
+
+A bear print that appears to have six toes?!
+![](/images/pct_images/section_10/image7.jpeg)
+
+In some of the older burn sections the wildflowers have grown back. They make a sharp contrast with the still-standing burned trunks. 
+![](/images/pct_images/section_10/image11.jpeg)
+
+More flowers!
+![](/images/pct_images/section_10/image20.jpeg)
+
+More flowers!
+![](/images/pct_images/section_10/image9.jpeg)
+
+More flowers!
+![](/images/pct_images/section_10/image10.jpeg)
+
+More flowers!
+![](/images/pct_images/section_10/image19.jpeg)
+
+More flowers!
+![](/images/pct_images/section_10/image12.jpeg)
+
+Mt. Shasta in the distance, looking properly volcanic. 
+![](/images/pct_images/section_10/image18.jpeg)
+
+For some reason this kind of lichen only starts growing 6’ off the ground, which makes a very cool visual effect. It reminds me of an Andy Goldsworthy sculpture. 
+![](/images/pct_images/section_10/image13.jpeg)
+
+More flowers! According to ChatGPT these are Western Azaleas.  ![](/images/pct_images/section_10/image14.jpeg)
+
+The section ends in Castle Crags state park, which has some really cool glacial rock formations. ![](/images/pct_images/section_10/image15.jpeg)
+
+Donna and Randy hosted me for the night in Mt. Shasta, and I took a bus back to Reno in the morning. 
+![](/images/pct_images/section_10/image16.jpeg)
+
+And that’s it! No more trail notes for a while at least. Oregon and Washington will have to wait—hopefully not too long though. Thank you for coming on the journey with me!
 
