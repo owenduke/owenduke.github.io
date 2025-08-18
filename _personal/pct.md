@@ -398,9 +398,6 @@ More flowers!
 {% include image-wrapper.html file="/images/pct_images/section_10/image20.jpeg" %}
 
 More flowers!
-{% include image-wrapper.html file="/images/pct_images/section_10/image9.jpeg" %}
-
-More flowers!
 {% include image-wrapper.html file="/images/pct_images/section_10/image10.jpeg" %}
 
 More flowers!
