@@ -374,7 +374,7 @@ The local snails love the moisture! I also saw a bear on the far side of the cre
 {% include image-wrapper.html file="/images/pct_images/section_10/image3.jpeg" %}
 
 This section has had lots of fires recently, creating what I like to call a Backcountry Jungle-gym!
-{% include image-wrapper.html file="/images/pct_images/section_10/image4.jpeg" %}
+{% include image-wrapper.html file="/images/pct_images/section_10/image21.jpeg" %}
 
 The first night I camped near this magnificent tree. It’s got a little bed built into it! Or maybe it’s an altar?
 {% include image-wrapper.html file="/images/pct_images/section_10/image4.jpeg" %}
